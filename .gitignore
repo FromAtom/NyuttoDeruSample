@@ -1,0 +1,15 @@
+DerivedData/
+build/
+project.xcworkspace/
+xcuserdata/
+*.DS_Store
+*~
+*.xccheckout
+Pods/
+*.app.dSYM.zip
+*.ipa
+report.xml
+vendor/
+.bundle/
+coverage/
+Carthage/
